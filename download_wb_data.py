@@ -19,3 +19,32 @@ with zipfile.ZipFile(zip_path) as zip:
     zip.extractall('./data/' + indicator_id)
 
 os.remove(zip_path)
+
+# download managerへの登録
+
+import csv
+import re
+import glob
+import json
+
+csv_path = "./data/{}/API*.csv"
+
+paths =  glob.glob(csv_path.format(indicator_id))
+print(paths[0])
+csv_file = open(paths[0], "r")
+
+f = csv.reader(csv_file)
+updated_date = True
+for row in f:
+    if len(row) > 0:
+        if re.match(r".*Updated.*", row[0]):
+            updated_date = row[1]
+            break
+
+with open('./indicators_dl_manager.json') as f:
+    df = json.load(f)
+    df[indicator_id] = updated_date
+
+    with open('./indicators_dl_manager.json', mode='w') as f:
+        json.dump(df, f, indent=4)
+
