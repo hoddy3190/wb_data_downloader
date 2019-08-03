@@ -13,3 +13,6 @@ numpy = "*"
 
 [requires]
 python_version = "3.7"
+
+[scripts]
+format = "python ../../format_world_bank.py"
