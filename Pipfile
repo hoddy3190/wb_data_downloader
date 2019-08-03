@@ -15,6 +15,7 @@ numpy = "*"
 python_version = "3.7"
 
 [scripts]
+meta = "python ../../meta_json.py"
 format = "python ../../format_world_bank.py"
 serialize = "python ../../format_json.py"
 music = "python download_music.py"

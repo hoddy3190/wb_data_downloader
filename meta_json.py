@@ -2,9 +2,10 @@ import xml.etree.ElementTree as ET
 import glob
 import collections as cl
 import json
-import sys
+import os
 
-indicator_id = sys.argv[1]
+indicator_id = os.getcwd().split('/')[-1]
+
 
 json_hash = cl.OrderedDict()
 
@@ -36,7 +37,6 @@ json_hash['tags'] = ['education', 'graph', 'country', 'world']
 json_hash['language'] = 'en'
 
 for p in glob.glob("../indicator*"):
-    print(p)
 
     tree = ET.parse(p)
     root = tree.getroot()
