@@ -16,3 +16,4 @@ python_version = "3.7"
 
 [scripts]
 format = "python ../../format_world_bank.py"
+serialize = "python ../../format_json.py"
