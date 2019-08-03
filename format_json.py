@@ -48,15 +48,22 @@ for index, row in csv.iterrows():
 
     data.append(hash)
 
-
+# settingsの取得
 
 json_hash = cl.OrderedDict()
 
 json_hash['settings'] = cl.OrderedDict()
+with open('./meta_data.json') as f:
+    df = json.load(f)
+    json_hash['settings']['layout.title'] = df['title']
+
+# columns
 
 json_hash['columns'] = cl.OrderedDict()
 json_hash['columns']['data'] = cl.OrderedDict()
 json_hash['columns']['data']['values'] = years
+
+# data
 
 json_hash['data'] = cl.OrderedDict()
 json_hash['data']['data'] = data
