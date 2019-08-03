@@ -5,6 +5,8 @@ import pandas as pd
 
 duration = int(sys.argv[1])
 
+cur = os.path.dirname(os.path.abspath(__file__))
+
 df = pd.read_csv('./audio_library_non_license.csv', header=0)
 df_s = df.sample(frac=1)
 
@@ -18,8 +20,8 @@ for index, row in df_s.iterrows():
 
         xml_resposnse = urllib.request.urlopen(req).read()
 
-        os.makedirs("./music/{}".format(duration), exist_ok=True)
-        path = "./music/{}/{}.mp3".format(duration, row[0].replace(' ', '_'))
+        os.makedirs("{}/music/{}".format(cur, duration), exist_ok=True)
+        path = "{}/music/{}/{}.mp3".format(cur, duration, row[0].replace(' ', '_'))
 
         with open(path, mode='wb') as f:
             f.write(xml_resposnse)
