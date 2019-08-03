@@ -32,7 +32,7 @@ json_hash = cl.OrderedDict()
 }
 """
 
-json_hash['license'] = 'CC-BY 4.0'
+json_hash['license'] = 'creativeCommon'
 json_hash['tags'] = ['education', 'graph', 'country', 'world']
 json_hash['language'] = 'en'
 
