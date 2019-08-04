@@ -47,7 +47,7 @@ for p in glob.glob("../indicator*"):
                 if e.tag == '{http://www.worldbank.org}name':
                     json_hash['title'] = e.text
                 if e.tag == '{http://www.worldbank.org}sourceNote':
-                    json_hash['description'] = e.text + '\nData Souce\nThe World Bank\nLICENSE\nhttps://www.youtube.com/redirect?q=https%3A%2F%2Fdatacatalog.worldbank.org%2Fpublic-licenses%23cc-by&v=UTeXr4K9SW8&redir_token=XTa27Xj8gJNo9A96eJv4Eqak7X98MTU2NDkxMTA4MUAxNTY0ODI0Njgx&event=video_description'
+                    json_hash['description'] = e.text + '\n\nData Souce\n  - The World Bank\nLICENSE\n  - https://datacatalog.worldbank.org/public-licenses#cc-by'
             break
 
 fw = open('meta_data.json','w')
