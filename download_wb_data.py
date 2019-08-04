@@ -41,10 +41,11 @@ for row in f:
             updated_date = row[1]
             break
 
-with open('./indicators_dl_manager.json') as f:
-    df = json.load(f)
-    df[indicator_id] = updated_date
-
-    with open('./indicators_dl_manager.json', mode='w') as f:
-        json.dump(df, f, indent=4)
+# download_managerに記載
+# with open('./indicators_dl_manager.json') as f:
+#     df = json.load(f)
+#     df[indicator_id] = updated_date
+#
+#     with open('./indicators_dl_manager.json', mode='w') as f:
+#         json.dump(df, f, indent=4)
 
