@@ -72,7 +72,7 @@ def val_round(val, units):
 
 # data.dataの取得
 data = []
-
+zero_rate_list = []
 for index, row in csv.iterrows():
     hash = cl.OrderedDict()
 
@@ -82,12 +82,31 @@ for index, row in csv.iterrows():
 
     hash['values'] = []
 
+    first_valid_val_index = 0
+    zero_count = 0
+
     for i in years_index:
         if numpy.isnan(row[i]):
-            row[i] = 0
-        hash['values'].append(val_round(row[i], unit)) # 値を挿入
+            row[i] = ''
+            if not first_valid_val_index == 0:
+                zero_count += 1
+            hash['values'].append('')
+        else:
+            if first_valid_val_index == 0:
+                first_valid_val_index = i
+            hash['values'].append(val_round(row[i], unit)) # 値を挿入
+
+    if first_valid_val_index == 0:
+        zero_rate = 1
+    else:
+        zero_rate = zero_count / (years_index[-1] - first_valid_val_index + 1)
+
+    zero_rate_list.append(zero_rate)
 
     data.append(hash)
+
+
+zero_rate_ave = sum(zero_rate_list) / len(zero_rate_list)
 
 # settingsの取得
 
@@ -108,6 +127,8 @@ elif unit == 9:
 
 json_hash['settings']['layout.text'] = layout_text
 
+if zero_rate_ave > 0.2:
+    json_hash['settings']['blank_cells'] = 'last_valid'
 
 # columns
 
