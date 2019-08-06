@@ -1,0 +1,12 @@
+{
+    "license": "creativeCommon",
+    "tags": [
+        "education",
+        "graph",
+        "country",
+        "world"
+    ],
+    "language": "en",
+    "title": "[1960 - 2018] Net ODA received per capita (current US$)",
+    "description": "Net official development assistance (ODA) per capita consists of disbursements of loans made on concessional terms (net of repayments of principal) and grants by official agencies of the members of the Development Assistance Committee (DAC), by multilateral institutions, and by non-DAC countries to promote economic development and welfare in countries and territories in the DAC list of ODA recipients; and is calculated by dividing net ODA received by the midyear population estimate. It includes loans with a grant element of at least 25 percent (calculated at a rate of discount of 10 percent).\n\nData Souce\n  - The World Bank\nLICENSE\n  - https://datacatalog.worldbank.org/public-licenses#cc-by"
+}
