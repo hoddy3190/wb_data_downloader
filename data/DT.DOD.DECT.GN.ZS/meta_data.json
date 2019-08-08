@@ -1,0 +1,12 @@
+{
+    "license": "creativeCommon",
+    "tags": [
+        "education",
+        "graph",
+        "country",
+        "world"
+    ],
+    "language": "en",
+    "title": "[1970 - 2017] External debt stocks (% of GNI)",
+    "description": "Total external debt stocks to gross national income. Total external debt is debt owed to nonresidents repayable in currency, goods, or services. Total external debt is the sum of public, publicly guaranteed, and private nonguaranteed long-term debt, use of IMF credit, and short-term debt. Short-term debt includes all debt having an original maturity of one year or less and interest in arrears on long-term debt. GNI (formerly GNP) is the sum of value added by all resident producers plus any product taxes (less subsidies) not included in the valuation of output plus net receipts of primary income (compensation of employees and property income) from abroad.\n\nData Souce\n  - The World Bank\nLICENSE\n  - https://datacatalog.worldbank.org/public-licenses#cc-by"
+}
