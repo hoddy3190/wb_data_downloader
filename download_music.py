@@ -32,7 +32,7 @@ while duration >= raw_duration - 5:
             print(path)
             break
     else:
-        duration =- 1
+        duration -= 1
         continue
 
     break
