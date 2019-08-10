@@ -1,0 +1,12 @@
+{
+    "license": "creativeCommon",
+    "tags": [
+        "education",
+        "graph",
+        "country",
+        "world"
+    ],
+    "language": "en",
+    "title": "[1970 - 2018] School enrollment, secondary (% gross)",
+    "description": "Gross enrollment ratio is the ratio of total enrollment, regardless of age, to the population of the age group that officially corresponds to the level of education shown. Secondary education completes the provision of basic education that began at the primary level, and aims at laying the foundations for lifelong learning and human development, by offering more subject- or skill-oriented instruction using more specialized teachers.\n\nData Souce\n  - The World Bank\nLICENSE\n  - https://datacatalog.worldbank.org/public-licenses#cc-by"
+}

@@ -1,0 +1,12 @@
+{
+    "license": "creativeCommon",
+    "tags": [
+        "education",
+        "graph",
+        "country",
+        "world"
+    ],
+    "language": "en",
+    "title": "[1998 - 2017] Fixed broadband subscriptions (per 100 people)",
+    "description": "Fixed broadband subscriptions refers to fixed subscriptions to high-speed access to the public Internet (a TCP/IP connection), at downstream speeds equal to, or greater than, 256 kbit/s. This includes cable modem, DSL, fiber-to-the-home/building, other fixed (wired)-broadband subscriptions, satellite broadband and terrestrial fixed wireless broadband. This total is measured irrespective of the method of payment. It excludes subscriptions that have access to data communications (including the Internet) via mobile-cellular networks. It should include fixed WiMAX and any other fixed wireless technologies. It includes both residential subscriptions and subscriptions for organizations.\n\nData Souce\n  - The World Bank\nLICENSE\n  - https://datacatalog.worldbank.org/public-licenses#cc-by"
+}
