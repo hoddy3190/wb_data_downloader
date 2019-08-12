@@ -72,7 +72,7 @@ tr4w = TextRank4Keyword()
 tr4w.analyze(json_hash['title'] + json_hash['description'], candidate_pos = ['NOUN', 'PROPN'], window_size=4, lower=False)
 keywords = tr4w.get_keywords_arr(3)
 
-default_tags = ['education', 'graph', 'country', 'world', 'ranking']
+default_tags = ['ranking', 'world', 'education', 'graph', 'country']
 
 
 json_hash['tags'] = []
