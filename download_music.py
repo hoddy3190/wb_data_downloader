@@ -14,9 +14,14 @@ def calc_second(text):
     texts = text.split(':')
     return int(texts[0]) * 60 + int(texts[1])
 
-raw_duration = duration
+# 音楽ファイルによっては、音楽ファイルの長さ - 5秒くらいで曲が終わるものがあり、
+# 終盤無音状態でアニメーションが再生されてしまうことがよくあるので、
+# 動画ファイルよりも10秒くらい長い音楽ファイルを取得する
+# 音楽ファイルは終盤5秒でフェードアウトさせる
+duration += 10
+music_max_length = 984
 
-while duration >= raw_duration - 5:
+while duration <= music_max_length:
     for index, row in df_s.iterrows():
         if duration == calc_second(row[2]):
             req = urllib.request.Request(row[6])
@@ -32,7 +37,7 @@ while duration >= raw_duration - 5:
             print(path)
             break
     else:
-        duration -= 1
+        duration += 1
         continue
 
     break
