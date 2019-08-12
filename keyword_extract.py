@@ -95,7 +95,7 @@ class TextRank4Keyword():
         keywords = []
         for i, (key, value) in enumerate(node_weight.items()):
             keywords.append(key)
-            if i > number:
+            if len(keywords) >= number:
                 break
         return keywords
 

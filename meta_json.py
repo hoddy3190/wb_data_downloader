@@ -64,13 +64,13 @@ for p in glob.glob("../indicator*"):
                 if e.tag == '{http://www.worldbank.org}name':
                     json_hash['title'] = title_str.format(e.text, years[0], years[-1])
                 if e.tag == '{http://www.worldbank.org}sourceNote':
-                    json_hash['description'] = e.text + '\n\nData Souce\n  - The World Bank\nLICENSE\n  - https://datacatalog.worldbank.org/public-licenses#cc-by'
+                    json_hash['description'] = e.text
             break
 
 
 tr4w = TextRank4Keyword()
 tr4w.analyze(json_hash['title'] + json_hash['description'], candidate_pos = ['NOUN', 'PROPN'], window_size=4, lower=False)
-keywords = tr4w.get_keywords_arr(5)
+keywords = tr4w.get_keywords_arr(3)
 
 default_tags = ['education', 'graph', 'country', 'world', 'ranking']
 
@@ -84,8 +84,8 @@ for tag in default_tags + keywords:
 hash_tags_list = list(map(lambda x: '#' + x, json_hash['tags']))
 hash_tags_list_str = "\n\n" + ' '.join(hash_tags_list)
 
+json_hash['description'] += "\n\nData Souce\n  - The World Bank\nLICENSE\n  - https://datacatalog.worldbank.org/public-licenses#cc-by"
 json_hash['description'] += hash_tags_list_str
-
 
 fw = open('meta_data.json','w')
 json.dump(json_hash, fw, indent=4)
