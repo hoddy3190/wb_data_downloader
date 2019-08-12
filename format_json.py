@@ -31,6 +31,12 @@ for i in range(columns.size):
             }
 '''
 
+# 何桁表示するかを決める
+# 数値が親しくて順位がつけられない場合、小数点以下の表示桁を増やして対応する
+
+# TODO: 各行TOP10を抽出して位ごとに四捨五入したときどこで値が変わるかを出そうとしたが、
+#  last_validのときがうまくいかない
+
 # 値をまるめる
 
 max = csv[years[-1]].max()
@@ -38,14 +44,14 @@ max_keta = len(str(math.floor(max)))
 
 unit = 0
 keta = 0
-while max_keta - unit > 7 and unit <= 9:
-    if max_keta - unit <= 7:
+while max_keta - unit > 6 and unit <= 9:
+    if max_keta - unit <= 6:
         keta = max_keta - unit
         break
     unit += 3
 
 # 2,487,045,000,000 13桁
-# 有効数字5桁 - 7桁になるように調整する
+# 有効数字4桁 - 6桁になるように調整する
 
 # 12 - 9 = 3
 # 12 - 6 = 6
@@ -127,6 +133,7 @@ elif unit == 9:
 
 json_hash['settings']['layout.text'] = layout_text
 
+# あまりにも空データが多い場合は、last_validとする
 if zero_rate_ave > 0.2:
     json_hash['settings']['blank_cells'] = 'last_valid'
 
