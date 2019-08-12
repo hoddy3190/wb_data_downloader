@@ -4,6 +4,7 @@ import collections as cl
 import json
 import os
 import pandas as pd
+from keyword_extract import TextRank4Keyword
 
 indicator_id = os.getcwd().split('/')[-1]
 
@@ -48,10 +49,9 @@ json_hash = cl.OrderedDict()
 """
 
 json_hash['license'] = 'creativeCommon'
-json_hash['tags'] = ['education', 'graph', 'country', 'world']
 json_hash['language'] = 'en'
 
-title_str = "[{} - {}] {}"
+title_str = "TOP 10 {} ({} - {})"
 
 for p in glob.glob("../indicator*"):
 
@@ -62,10 +62,30 @@ for p in glob.glob("../indicator*"):
         if child.attrib['id'] == indicator_id:
             for e in child:
                 if e.tag == '{http://www.worldbank.org}name':
-                    json_hash['title'] = title_str.format(years[0], years[-1], e.text)
+                    json_hash['title'] = title_str.format(e.text, years[0], years[-1])
                 if e.tag == '{http://www.worldbank.org}sourceNote':
                     json_hash['description'] = e.text + '\n\nData Souce\n  - The World Bank\nLICENSE\n  - https://datacatalog.worldbank.org/public-licenses#cc-by'
             break
+
+
+tr4w = TextRank4Keyword()
+tr4w.analyze(json_hash['title'] + json_hash['description'], candidate_pos = ['NOUN', 'PROPN'], window_size=4, lower=False)
+keywords = tr4w.get_keywords_arr(5)
+
+default_tags = ['education', 'graph', 'country', 'world', 'ranking']
+
+
+json_hash['tags'] = []
+for tag in default_tags + keywords:
+    if tag not in json_hash['tags']:
+        json_hash['tags'].append(tag)
+
+
+hash_tags_list = list(map(lambda x: '#' + x, json_hash['tags']))
+hash_tags_list_str = "\n\n" + ' '.join(hash_tags_list)
+
+json_hash['description'] += hash_tags_list_str
+
 
 fw = open('meta_data.json','w')
 json.dump(json_hash, fw, indent=4)
