@@ -39,7 +39,11 @@ for i in range(columns.size):
 
 # 値をまるめる
 
-max = csv[years[-1]].max()
+max = 0
+for year in years[:]:
+    if max < csv[year].max():
+        max = csv[year].max()
+
 max_keta = len(str(math.floor(max)))
 
 unit = 0
