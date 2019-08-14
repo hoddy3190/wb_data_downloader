@@ -1,0 +1,4132 @@
+{
+    "settings": {
+        "layout.title": "TOP 10 Renewable internal freshwater resources per capita (cubic meters) (1962 - 2014)",
+        "layout.text": "unit: thousand"
+    },
+    "columns": {
+        "data": {
+            "values": [
+                "1962",
+                "1967",
+                "1972",
+                "1977",
+                "1982",
+                "1987",
+                "1992",
+                "1997",
+                "2002",
+                "2007",
+                "2012",
+                "2014"
+            ]
+        }
+    },
+    "data": {
+        "data": [
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/AW/flat/64.png",
+                "label": "Aruba",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/AF/flat/64.png",
+                "label": "Afghanistan",
+                "values": [
+                    5.04,
+                    4.53,
+                    4.0,
+                    3.58,
+                    3.66,
+                    4.06,
+                    3.25,
+                    2.44,
+                    2.09,
+                    1.74,
+                    1.51,
+                    1.41
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/AO/flat/64.png",
+                "label": "Angola",
+                "values": [
+                    26.39,
+                    25.63,
+                    23.69,
+                    19.64,
+                    16.53,
+                    13.85,
+                    11.69,
+                    9.95,
+                    8.45,
+                    7.08,
+                    5.89,
+                    5.49
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/AL/flat/64.png",
+                "label": "Albania",
+                "values": [
+                    15.72,
+                    13.69,
+                    11.99,
+                    10.7,
+                    9.66,
+                    8.72,
+                    8.28,
+                    8.54,
+                    8.82,
+                    9.06,
+                    9.27,
+                    9.31
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/AD/flat/64.png",
+                "label": "Andorra",
+                "values": [
+                    20.53,
+                    15.2,
+                    11.74,
+                    9.63,
+                    8.07,
+                    6.51,
+                    5.36,
+                    4.91,
+                    4.51,
+                    3.82,
+                    3.83,
+                    3.98
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/AE/flat/64.png",
+                "label": "UAE",
+                "values": [
+                    1.34,
+                    0.88,
+                    0.45,
+                    0.2,
+                    0.13,
+                    0.1,
+                    0.07,
+                    0.06,
+                    0.04,
+                    0.02,
+                    0.02,
+                    0.02
+                ]
+            },
+            {
+                "category": "South America",
+                "image": "https://www.countryflags.io/AR/flat/64.png",
+                "label": "Argentina",
+                "values": [
+                    13.8,
+                    12.79,
+                    11.84,
+                    10.95,
+                    10.14,
+                    9.36,
+                    8.71,
+                    8.19,
+                    7.75,
+                    7.36,
+                    7.0,
+                    6.84
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/AM/flat/64.png",
+                "label": "Armenia",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    1.99,
+                    2.19,
+                    2.26,
+                    2.34,
+                    2.38,
+                    2.36
+                ]
+            },
+            {
+                "category": "Oceania",
+                "image": "https://www.countryflags.io/AS/flat/64.png",
+                "label": "American Samoa",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/AG/flat/64.png",
+                "label": "Antigua and Barbuda",
+                "values": [
+                    0.93,
+                    0.85,
+                    0.81,
+                    0.84,
+                    0.84,
+                    0.84,
+                    0.81,
+                    0.73,
+                    0.66,
+                    0.62,
+                    0.58,
+                    0.56
+                ]
+            },
+            {
+                "category": "Oceania",
+                "image": "https://www.countryflags.io/AU/flat/64.png",
+                "label": "Australia",
+                "values": [
+                    45.8,
+                    41.7,
+                    37.34,
+                    34.67,
+                    32.42,
+                    30.25,
+                    28.12,
+                    26.57,
+                    25.04,
+                    23.62,
+                    21.64,
+                    20.96
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/AT/flat/64.png",
+                "label": "Austria",
+                "values": [
+                    7.71,
+                    7.46,
+                    7.29,
+                    7.27,
+                    7.26,
+                    7.26,
+                    7.01,
+                    6.9,
+                    6.81,
+                    6.63,
+                    6.52,
+                    6.44
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/AZ/flat/64.png",
+                "label": "Azerbaijan",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    1.1,
+                    1.04,
+                    0.99,
+                    0.95,
+                    0.87,
+                    0.85
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/BI/flat/64.png",
+                "label": "Burundi",
+                "values": [
+                    3.46,
+                    3.09,
+                    2.82,
+                    2.61,
+                    2.3,
+                    2.0,
+                    1.77,
+                    1.64,
+                    1.5,
+                    1.28,
+                    1.09,
+                    1.02
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/BE/flat/64.png",
+                "label": "Belgium",
+                "values": [
+                    1.3,
+                    1.25,
+                    1.24,
+                    1.22,
+                    1.22,
+                    1.22,
+                    1.19,
+                    1.18,
+                    1.16,
+                    1.13,
+                    1.08,
+                    1.07
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/BJ/flat/64.png",
+                "label": "Benin",
+                "values": [
+                    4.12,
+                    3.77,
+                    3.38,
+                    3.0,
+                    2.62,
+                    2.27,
+                    1.93,
+                    1.64,
+                    1.41,
+                    1.22,
+                    1.06,
+                    1.0
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/BF/flat/64.png",
+                "label": "Burkina Faso",
+                "values": [
+                    2.52,
+                    2.34,
+                    2.15,
+                    1.95,
+                    1.75,
+                    1.54,
+                    1.34,
+                    1.17,
+                    1.02,
+                    0.88,
+                    0.75,
+                    0.71
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/BD/flat/64.png",
+                "label": "Bangladesh",
+                "values": [
+                    2.07,
+                    1.78,
+                    1.58,
+                    1.43,
+                    1.25,
+                    1.1,
+                    0.97,
+                    0.87,
+                    0.79,
+                    0.74,
+                    0.7,
+                    0.68
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/BG/flat/64.png",
+                "label": "Bulgaria",
+                "values": [
+                    2.62,
+                    2.53,
+                    2.45,
+                    2.39,
+                    2.35,
+                    2.34,
+                    2.46,
+                    2.53,
+                    2.68,
+                    2.78,
+                    2.87,
+                    2.91
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/BH/flat/64.png",
+                "label": "Bahrain",
+                "values": [
+                    0.02,
+                    0.02,
+                    0.02,
+                    0.01,
+                    0.01,
+                    0.01,
+                    0.01,
+                    0.01,
+                    0.01,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/BS/flat/64.png",
+                "label": "Bahamas, The",
+                "values": [
+                    5.78,
+                    4.59,
+                    3.94,
+                    3.55,
+                    3.18,
+                    2.88,
+                    2.63,
+                    2.44,
+                    2.28,
+                    2.07,
+                    1.93,
+                    1.89
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/BA/flat/64.png",
+                "label": "Bosnia and Herzegovina",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    8.39,
+                    9.5,
+                    9.44,
+                    9.43,
+                    9.85,
+                    10.19
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/BY/flat/64.png",
+                "label": "Belarus",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    3.33,
+                    3.36,
+                    3.45,
+                    3.56,
+                    3.59,
+                    3.59
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/BZ/flat/64.png",
+                "label": "Belize",
+                "values": [
+                    156.7,
+                    135.41,
+                    120.02,
+                    111.4,
+                    100.73,
+                    87.54,
+                    78.53,
+                    68.87,
+                    58.16,
+                    51.03,
+                    45.15,
+                    43.18
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/BM/flat/64.png",
+                "label": "Bermuda",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "South America",
+                "image": "https://www.countryflags.io/BO/flat/64.png",
+                "label": "Bolivia",
+                "values": [
+                    79.81,
+                    72.11,
+                    64.82,
+                    58.05,
+                    52.2,
+                    47.11,
+                    42.38,
+                    38.24,
+                    34.71,
+                    31.75,
+                    29.25,
+                    28.35
+                ]
+            },
+            {
+                "category": "South America",
+                "image": "https://www.countryflags.io/BR/flat/64.png",
+                "label": "Brazil",
+                "values": [
+                    73.99,
+                    64.3,
+                    56.69,
+                    50.35,
+                    44.75,
+                    40.18,
+                    36.7,
+                    33.86,
+                    31.53,
+                    29.77,
+                    28.41,
+                    27.92
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/BB/flat/64.png",
+                "label": "Barbados",
+                "values": [
+                    0.34,
+                    0.34,
+                    0.33,
+                    0.32,
+                    0.31,
+                    0.31,
+                    0.3,
+                    0.3,
+                    0.29,
+                    0.29,
+                    0.28,
+                    0.28
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/BN/flat/64.png",
+                "label": "Brunei Darussalam",
+                "values": [
+                    94.99,
+                    75.59,
+                    59.85,
+                    48.65,
+                    41.25,
+                    35.78,
+                    31.03,
+                    27.25,
+                    24.51,
+                    22.67,
+                    21.3,
+                    20.74
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/BT/flat/64.png",
+                "label": "Bhutan",
+                "values": [
+                    405.02,
+                    351.92,
+                    299.85,
+                    255.77,
+                    221.48,
+                    192.19,
+                    177.73,
+                    146.82,
+                    131.49,
+                    117.32,
+                    111.18,
+                    108.48
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/BW/flat/64.png",
+                "label": "Botswana",
+                "values": [
+                    4.58,
+                    4.11,
+                    3.6,
+                    3.0,
+                    2.49,
+                    2.08,
+                    1.76,
+                    1.56,
+                    1.41,
+                    1.28,
+                    1.18,
+                    1.15
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/CF/flat/64.png",
+                "label": "Central African Republic",
+                "values": [
+                    90.86,
+                    82.54,
+                    75.49,
+                    69.12,
+                    60.38,
+                    53.27,
+                    47.65,
+                    41.56,
+                    37.08,
+                    33.59,
+                    31.78,
+                    31.58
+                ]
+            },
+            {
+                "category": "North America",
+                "image": "https://www.countryflags.io/CA/flat/64.png",
+                "label": "Canada",
+                "values": [
+                    153.11,
+                    139.62,
+                    128.27,
+                    120.12,
+                    113.47,
+                    107.76,
+                    100.45,
+                    95.3,
+                    90.88,
+                    86.66,
+                    82.1,
+                    80.42
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/CH/flat/64.png",
+                "label": "Switzerland",
+                "values": [
+                    7.25,
+                    6.74,
+                    6.45,
+                    6.43,
+                    6.32,
+                    6.17,
+                    5.88,
+                    5.7,
+                    5.55,
+                    5.35,
+                    5.05,
+                    4.93
+                ]
+            },
+            {
+                "category": "South America",
+                "image": "https://www.countryflags.io/CL/flat/64.png",
+                "label": "Chile",
+                "values": [
+                    104.4,
+                    95.04,
+                    87.59,
+                    81.02,
+                    75.36,
+                    70.0,
+                    64.51,
+                    59.85,
+                    56.43,
+                    53.54,
+                    50.86,
+                    49.83
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/CN/flat/64.png",
+                "label": "China",
+                "values": [
+                    4.23,
+                    3.73,
+                    3.26,
+                    2.98,
+                    2.79,
+                    2.59,
+                    2.41,
+                    2.29,
+                    2.2,
+                    2.13,
+                    2.08,
+                    2.06
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/CI/flat/64.png",
+                "label": "Cote d'Ivoire",
+                "values": [
+                    20.38,
+                    16.91,
+                    13.78,
+                    10.94,
+                    8.77,
+                    7.18,
+                    6.0,
+                    5.08,
+                    4.46,
+                    4.01,
+                    3.57,
+                    3.39
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/CM/flat/64.png",
+                "label": "Cameroon",
+                "values": [
+                    50.57,
+                    45.11,
+                    39.75,
+                    34.61,
+                    29.78,
+                    25.44,
+                    21.84,
+                    19.03,
+                    16.69,
+                    14.58,
+                    12.71,
+                    12.04
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/CD/flat/64.png",
+                "label": "Congo, Dem. Rep.",
+                "values": [
+                    56.11,
+                    48.97,
+                    42.61,
+                    37.11,
+                    32.47,
+                    28.55,
+                    24.11,
+                    20.54,
+                    18.05,
+                    15.4,
+                    13.04,
+                    12.2
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/CG/flat/64.png",
+                "label": "Congo, Rep.",
+                "values": [
+                    207.62,
+                    182.04,
+                    157.84,
+                    136.26,
+                    117.78,
+                    102.24,
+                    89.16,
+                    77.43,
+                    67.06,
+                    57.27,
+                    49.22,
+                    46.87
+                ]
+            },
+            {
+                "category": "South America",
+                "image": "https://www.countryflags.io/CO/flat/64.png",
+                "label": "Colombia",
+                "values": [
+                    125.49,
+                    108.13,
+                    95.26,
+                    85.24,
+                    76.33,
+                    68.76,
+                    62.31,
+                    56.86,
+                    52.48,
+                    49.04,
+                    46.55,
+                    45.67
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/KM/flat/64.png",
+                "label": "Comoros",
+                "values": [
+                    6.09,
+                    5.56,
+                    5.02,
+                    4.35,
+                    3.67,
+                    3.19,
+                    2.75,
+                    2.39,
+                    2.11,
+                    1.87,
+                    1.66,
+                    1.58
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/CV/flat/64.png",
+                "label": "Cabo Verde",
+                "values": [
+                    1.43,
+                    1.21,
+                    1.1,
+                    1.1,
+                    1.02,
+                    0.93,
+                    0.84,
+                    0.74,
+                    0.68,
+                    0.63,
+                    0.59,
+                    0.58
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/CR/flat/64.png",
+                "label": "Costa Rica",
+                "values": [
+                    78.84,
+                    66.6,
+                    58.12,
+                    51.23,
+                    44.78,
+                    39.17,
+                    34.38,
+                    30.38,
+                    27.55,
+                    25.65,
+                    24.1,
+                    23.56
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/CU/flat/64.png",
+                "label": "Cuba",
+                "values": [
+                    5.11,
+                    4.61,
+                    4.22,
+                    3.95,
+                    3.83,
+                    3.71,
+                    3.55,
+                    3.47,
+                    3.4,
+                    3.39,
+                    3.39,
+                    3.37
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/CW/flat/64.png",
+                "label": "Curacao",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/KY/flat/64.png",
+                "label": "Cayman Islands",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/CY/flat/64.png",
+                "label": "Cyprus",
+                "values": [
+                    1.35,
+                    1.32,
+                    1.24,
+                    1.17,
+                    1.13,
+                    1.08,
+                    0.97,
+                    0.88,
+                    0.8,
+                    0.73,
+                    0.69,
+                    0.68
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/CZ/flat/64.png",
+                "label": "Czech Republic",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    1.28,
+                    1.29,
+                    1.28,
+                    1.25,
+                    1.25
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/DE/flat/64.png",
+                "label": "Germany",
+                "values": [
+                    1.45,
+                    1.39,
+                    1.36,
+                    1.37,
+                    1.37,
+                    1.37,
+                    1.33,
+                    1.3,
+                    1.3,
+                    1.3,
+                    1.33,
+                    1.32
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/DJ/flat/64.png",
+                "label": "Djibouti",
+                "values": [
+                    3.18,
+                    2.28,
+                    1.67,
+                    1.08,
+                    0.78,
+                    0.61,
+                    0.49,
+                    0.45,
+                    0.4,
+                    0.37,
+                    0.35,
+                    0.33
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/DM/flat/64.png",
+                "label": "Dominica",
+                "values": [
+                    3.23,
+                    2.95,
+                    2.79,
+                    2.72,
+                    2.67,
+                    2.78,
+                    2.84,
+                    2.83,
+                    2.86,
+                    2.83,
+                    2.82,
+                    2.81
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/DK/flat/64.png",
+                "label": "Denmark",
+                "values": [
+                    1.29,
+                    1.24,
+                    1.2,
+                    1.18,
+                    1.17,
+                    1.17,
+                    1.16,
+                    1.14,
+                    1.12,
+                    1.1,
+                    1.07,
+                    1.06
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/DO/flat/64.png",
+                "label": "Dominican Republic",
+                "values": [
+                    6.67,
+                    5.7,
+                    4.94,
+                    4.35,
+                    3.87,
+                    3.49,
+                    3.17,
+                    2.91,
+                    2.69,
+                    2.52,
+                    2.37,
+                    2.31
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/DZ/flat/64.png",
+                "label": "Algeria",
+                "values": [
+                    0.97,
+                    0.85,
+                    0.74,
+                    0.64,
+                    0.55,
+                    0.47,
+                    0.42,
+                    0.38,
+                    0.35,
+                    0.33,
+                    0.3,
+                    0.29
+                ]
+            },
+            {
+                "category": "South America",
+                "image": "https://www.countryflags.io/EC/flat/64.png",
+                "label": "Ecuador",
+                "values": [
+                    91.99,
+                    79.57,
+                    68.81,
+                    59.92,
+                    52.61,
+                    46.46,
+                    41.28,
+                    37.02,
+                    33.66,
+                    30.94,
+                    28.59,
+                    27.73
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/EG/flat/64.png",
+                "label": "Egypt",
+                "values": [
+                    0.06,
+                    0.06,
+                    0.05,
+                    0.04,
+                    0.04,
+                    0.03,
+                    0.03,
+                    0.03,
+                    0.03,
+                    0.02,
+                    0.02,
+                    0.02
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/ER/flat/64.png",
+                "label": "Eritrea",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    1.28,
+                    1.13,
+                    0.93,
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/ES/flat/64.png",
+                "label": "Spain",
+                "values": [
+                    3.58,
+                    3.4,
+                    3.21,
+                    3.05,
+                    2.93,
+                    2.87,
+                    2.84,
+                    2.78,
+                    2.68,
+                    2.46,
+                    2.38,
+                    2.39
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/EE/flat/64.png",
+                "label": "Estonia",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    8.29,
+                    9.08,
+                    9.21,
+                    9.48,
+                    9.61,
+                    9.67
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/ET/flat/64.png",
+                "label": "Ethiopia",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    2.01,
+                    1.74,
+                    1.51,
+                    1.32,
+                    1.24
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/FI/flat/64.png",
+                "label": "Finland",
+                "values": [
+                    23.82,
+                    23.23,
+                    23.06,
+                    22.58,
+                    22.17,
+                    21.69,
+                    21.22,
+                    20.82,
+                    20.57,
+                    20.23,
+                    19.76,
+                    19.59
+                ]
+            },
+            {
+                "category": "Oceania",
+                "image": "https://www.countryflags.io/FJ/flat/64.png",
+                "label": "Fiji",
+                "values": [
+                    67.71,
+                    58.51,
+                    52.59,
+                    47.72,
+                    42.72,
+                    39.55,
+                    38.35,
+                    36.01,
+                    35.02,
+                    34.14,
+                    33.0,
+                    32.95
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/FR/flat/64.png",
+                "label": "France",
+                "values": [
+                    4.17,
+                    3.94,
+                    3.79,
+                    3.67,
+                    3.59,
+                    3.49,
+                    3.4,
+                    3.34,
+                    3.24,
+                    3.12,
+                    3.05,
+                    3.02
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/FO/flat/64.png",
+                "label": "Faroe Islands",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Oceania",
+                "image": "https://www.countryflags.io/FM/flat/64.png",
+                "label": "Micronesia, Fed. Sts.",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/GA/flat/64.png",
+                "label": "Gabon",
+                "values": [
+                    320.76,
+                    296.0,
+                    268.1,
+                    242.51,
+                    214.68,
+                    187.67,
+                    163.58,
+                    143.69,
+                    127.3,
+                    111.37,
+                    93.73,
+                    87.06
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/GB/flat/64.png",
+                "label": "United Kingdom",
+                "values": [
+                    2.72,
+                    2.64,
+                    2.59,
+                    2.58,
+                    2.57,
+                    2.55,
+                    2.52,
+                    2.49,
+                    2.44,
+                    2.36,
+                    2.28,
+                    2.24
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/GE/flat/64.png",
+                "label": "Georgia",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    11.93,
+                    13.36,
+                    14.61,
+                    15.06,
+                    15.59,
+                    15.63
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/GH/flat/64.png",
+                "label": "Ghana",
+                "values": [
+                    4.28,
+                    3.73,
+                    3.28,
+                    2.91,
+                    2.59,
+                    2.24,
+                    1.94,
+                    1.69,
+                    1.5,
+                    1.32,
+                    1.17,
+                    1.11
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/GI/flat/64.png",
+                "label": "Gibraltar",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/GN/flat/64.png",
+                "label": "Guinea",
+                "values": [
+                    62.58,
+                    57.35,
+                    52.67,
+                    48.82,
+                    44.51,
+                    38.96,
+                    33.65,
+                    29.5,
+                    26.32,
+                    23.74,
+                    21.22,
+                    20.27
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/GM/flat/64.png",
+                "label": "Gambia, The",
+                "values": [
+                    7.9,
+                    7.03,
+                    6.09,
+                    5.2,
+                    4.42,
+                    3.61,
+                    2.92,
+                    2.5,
+                    2.14,
+                    1.83,
+                    1.57,
+                    1.48
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/GW/flat/64.png",
+                "label": "Guinea-Bissau",
+                "values": [
+                    25.44,
+                    23.91,
+                    21.84,
+                    20.73,
+                    19.74,
+                    17.53,
+                    15.68,
+                    14.13,
+                    12.75,
+                    11.34,
+                    9.97,
+                    9.45
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/GQ/flat/64.png",
+                "label": "Equatorial Guinea",
+                "values": [
+                    99.15,
+                    89.11,
+                    89.81,
+                    107.37,
+                    91.35,
+                    67.89,
+                    58.13,
+                    48.47,
+                    39.49,
+                    31.64,
+                    25.21,
+                    23.17
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/GR/flat/64.png",
+                "label": "Greece",
+                "values": [
+                    6.87,
+                    6.68,
+                    6.53,
+                    6.23,
+                    5.92,
+                    5.8,
+                    5.58,
+                    5.44,
+                    5.32,
+                    5.25,
+                    5.25,
+                    5.32
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/GD/flat/64.png",
+                "label": "Grenada",
+                "values": [
+                    2.16,
+                    2.1,
+                    2.13,
+                    2.22,
+                    2.15,
+                    2.01,
+                    2.06,
+                    1.97,
+                    1.93,
+                    1.9,
+                    1.86,
+                    1.84
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/GL/flat/64.png",
+                "label": "Greenland",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    10652.02,
+                    10662.19,
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/GT/flat/64.png",
+                "label": "Guatemala",
+                "values": [
+                    24.46,
+                    21.16,
+                    18.38,
+                    16.14,
+                    14.27,
+                    12.64,
+                    11.25,
+                    10.03,
+                    8.94,
+                    7.97,
+                    7.15,
+                    6.86
+                ]
+            },
+            {
+                "category": "Oceania",
+                "image": "https://www.countryflags.io/GU/flat/64.png",
+                "label": "Guam",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "South America",
+                "image": "https://www.countryflags.io/GY/flat/64.png",
+                "label": "Guyana",
+                "values": [
+                    397.5,
+                    356.58,
+                    333.82,
+                    316.1,
+                    308.48,
+                    318.17,
+                    321.93,
+                    317.95,
+                    323.58,
+                    322.85,
+                    319.04,
+                    315.7
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/HK/flat/64.png",
+                "label": "Hong Kong",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/HN/flat/64.png",
+                "label": "Honduras",
+                "values": [
+                    42.06,
+                    36.46,
+                    31.46,
+                    27.04,
+                    23.18,
+                    19.96,
+                    17.29,
+                    15.0,
+                    13.08,
+                    11.61,
+                    10.49,
+                    10.12
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/HR/flat/64.png",
+                "label": "Croatia",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    8.24,
+                    8.31,
+                    8.76,
+                    8.75,
+                    8.83,
+                    8.89
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/HT/flat/64.png",
+                "label": "Haiti",
+                "values": [
+                    3.24,
+                    2.94,
+                    2.69,
+                    2.46,
+                    2.2,
+                    1.97,
+                    1.78,
+                    1.62,
+                    1.49,
+                    1.37,
+                    1.27,
+                    1.23
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/HU/flat/64.png",
+                "label": "Hungary",
+                "values": [
+                    0.6,
+                    0.59,
+                    0.58,
+                    0.56,
+                    0.56,
+                    0.57,
+                    0.58,
+                    0.58,
+                    0.59,
+                    0.6,
+                    0.6,
+                    0.61
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/ID/flat/64.png",
+                "label": "Indonesia",
+                "values": [
+                    21.82,
+                    19.07,
+                    16.68,
+                    14.71,
+                    13.07,
+                    11.76,
+                    10.75,
+                    9.95,
+                    9.29,
+                    8.69,
+                    8.13,
+                    7.91
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/IM/flat/64.png",
+                "label": "Isle of Man",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/IN/flat/64.png",
+                "label": "India",
+                "values": [
+                    3.08,
+                    2.78,
+                    2.49,
+                    2.22,
+                    1.97,
+                    1.76,
+                    1.59,
+                    1.44,
+                    1.32,
+                    1.22,
+                    1.14,
+                    1.12
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/IE/flat/64.png",
+                "label": "Ireland",
+                "values": [
+                    17.28,
+                    16.88,
+                    16.14,
+                    14.93,
+                    14.06,
+                    13.84,
+                    13.77,
+                    13.34,
+                    12.46,
+                    11.14,
+                    10.65,
+                    10.52
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/IR/flat/64.png",
+                "label": "Iran",
+                "values": [
+                    5.57,
+                    4.88,
+                    4.27,
+                    3.69,
+                    3.07,
+                    2.51,
+                    2.19,
+                    2.04,
+                    1.91,
+                    1.8,
+                    1.7,
+                    1.66
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/IQ/flat/64.png",
+                "label": "Iraq",
+                "values": [
+                    4.59,
+                    3.93,
+                    3.32,
+                    2.82,
+                    2.44,
+                    2.17,
+                    1.91,
+                    1.64,
+                    1.41,
+                    1.26,
+                    1.1,
+                    1.02
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/IS/flat/64.png",
+                "label": "Iceland",
+                "values": [
+                    932.13,
+                    855.34,
+                    812.86,
+                    766.46,
+                    726.93,
+                    691.45,
+                    651.2,
+                    627.01,
+                    591.26,
+                    545.63,
+                    530.06,
+                    519.26
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/IL/flat/64.png",
+                "label": "Israel",
+                "values": [
+                    0.33,
+                    0.27,
+                    0.24,
+                    0.21,
+                    0.19,
+                    0.17,
+                    0.15,
+                    0.13,
+                    0.11,
+                    0.1,
+                    0.09,
+                    0.09
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/IT/flat/64.png",
+                "label": "Italy",
+                "values": [
+                    3.59,
+                    3.45,
+                    3.36,
+                    3.26,
+                    3.23,
+                    3.22,
+                    3.21,
+                    3.21,
+                    3.2,
+                    3.12,
+                    3.07,
+                    3.0
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/JM/flat/64.png",
+                "label": "Jamaica",
+                "values": [
+                    6.45,
+                    6.0,
+                    5.59,
+                    5.2,
+                    4.84,
+                    4.56,
+                    4.4,
+                    4.19,
+                    4.02,
+                    3.91,
+                    3.81,
+                    3.76
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/JO/flat/64.png",
+                "label": "Jordan",
+                "values": [
+                    0.67,
+                    0.49,
+                    0.36,
+                    0.31,
+                    0.27,
+                    0.22,
+                    0.17,
+                    0.14,
+                    0.13,
+                    0.11,
+                    0.08,
+                    0.08
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/JP/flat/64.png",
+                "label": "Japan",
+                "values": [
+                    4.49,
+                    4.27,
+                    4.01,
+                    3.78,
+                    3.63,
+                    3.52,
+                    3.46,
+                    3.41,
+                    3.37,
+                    3.36,
+                    3.37,
+                    3.38
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/KZ/flat/64.png",
+                "label": "Kazakhstan",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    3.91,
+                    4.2,
+                    4.33,
+                    4.16,
+                    3.83,
+                    3.72
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/KE/flat/64.png",
+                "label": "Kenya",
+                "values": [
+                    2.39,
+                    2.03,
+                    1.7,
+                    1.41,
+                    1.17,
+                    0.97,
+                    0.82,
+                    0.7,
+                    0.61,
+                    0.53,
+                    0.47,
+                    0.44
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/KG/flat/64.png",
+                "label": "Kyrgyz Republic",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    10.84,
+                    10.42,
+                    9.8,
+                    9.29,
+                    8.73,
+                    8.38
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/KH/flat/64.png",
+                "label": "Cambodia",
+                "values": [
+                    20.01,
+                    18.04,
+                    16.52,
+                    16.76,
+                    17.43,
+                    14.71,
+                    12.53,
+                    10.67,
+                    9.54,
+                    8.82,
+                    8.16,
+                    7.9
+                ]
+            },
+            {
+                "category": "Oceania",
+                "image": "https://www.countryflags.io/KI/flat/64.png",
+                "label": "Kiribati",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/KN/flat/64.png",
+                "label": "St. Kitts and Nevis",
+                "values": [
+                    0.47,
+                    0.51,
+                    0.54,
+                    0.55,
+                    0.56,
+                    0.58,
+                    0.59,
+                    0.56,
+                    0.53,
+                    0.5,
+                    0.48,
+                    0.47
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/KR/flat/64.png",
+                "label": "South Korea",
+                "values": [
+                    2.45,
+                    2.15,
+                    1.94,
+                    1.78,
+                    1.65,
+                    1.56,
+                    1.48,
+                    1.41,
+                    1.36,
+                    1.33,
+                    1.29,
+                    1.28
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/KW/flat/64.png",
+                "label": "Kuwait",
+                "values": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    "",
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/LA/flat/64.png",
+                "label": "Lao PDR",
+                "values": [
+                    85.72,
+                    76.25,
+                    67.02,
+                    60.72,
+                    55.98,
+                    48.75,
+                    42.31,
+                    37.7,
+                    34.66,
+                    32.03,
+                    29.54,
+                    28.68
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/LB/flat/64.png",
+                "label": "Lebanon",
+                "values": [
+                    2.49,
+                    2.21,
+                    1.99,
+                    1.84,
+                    1.84,
+                    1.8,
+                    1.56,
+                    1.31,
+                    1.15,
+                    1.01,
+                    0.87,
+                    0.77
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/LR/flat/64.png",
+                "label": "Liberia",
+                "values": [
+                    171.43,
+                    153.49,
+                    135.63,
+                    118.19,
+                    100.53,
+                    92.88,
+                    99.92,
+                    85.98,
+                    66.12,
+                    57.77,
+                    48.36,
+                    45.88
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/LY/flat/64.png",
+                "label": "Libya",
+                "values": [
+                    0.45,
+                    0.37,
+                    0.3,
+                    0.24,
+                    0.2,
+                    0.17,
+                    0.15,
+                    0.14,
+                    0.13,
+                    0.12,
+                    0.11,
+                    0.11
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/LC/flat/64.png",
+                "label": "St. Lucia",
+                "values": [
+                    3.26,
+                    3.02,
+                    2.82,
+                    2.66,
+                    2.48,
+                    2.29,
+                    2.12,
+                    1.99,
+                    1.88,
+                    1.79,
+                    1.7,
+                    1.68
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/LI/flat/64.png",
+                "label": "Liechtenstein",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/LK/flat/64.png",
+                "label": "Sri Lanka",
+                "values": [
+                    5.1,
+                    4.53,
+                    4.06,
+                    3.7,
+                    3.41,
+                    3.17,
+                    2.98,
+                    2.86,
+                    2.77,
+                    2.66,
+                    2.59,
+                    2.54
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/LS/flat/64.png",
+                "label": "Lesotho",
+                "values": [
+                    6.02,
+                    5.44,
+                    4.86,
+                    4.26,
+                    3.7,
+                    3.28,
+                    2.93,
+                    2.66,
+                    2.58,
+                    2.63,
+                    2.6,
+                    2.56
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/LT/flat/64.png",
+                "label": "Lithuania",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    4.18,
+                    4.32,
+                    4.49,
+                    4.78,
+                    5.17,
+                    5.27
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/LU/flat/64.png",
+                "label": "Luxembourg",
+                "values": [
+                    3.12,
+                    2.99,
+                    2.89,
+                    2.77,
+                    2.74,
+                    2.7,
+                    2.55,
+                    2.38,
+                    2.24,
+                    2.08,
+                    1.88,
+                    1.8
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/LV/flat/64.png",
+                "label": "Latvia",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    6.48,
+                    6.96,
+                    7.33,
+                    7.7,
+                    8.33,
+                    8.5
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/MO/flat/64.png",
+                "label": "Macao",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/MF/flat/64.png",
+                "label": "St. Martin (French part)",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/MA/flat/64.png",
+                "label": "Morocco",
+                "values": [
+                    2.21,
+                    1.94,
+                    1.74,
+                    1.56,
+                    1.38,
+                    1.24,
+                    1.13,
+                    1.04,
+                    0.98,
+                    0.93,
+                    0.87,
+                    0.85
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/MC/flat/64.png",
+                "label": "Monaco",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/MD/flat/64.png",
+                "label": "Moldova",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    0.44,
+                    0.44,
+                    0.45,
+                    0.45,
+                    0.46,
+                    0.46
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/MG/flat/64.png",
+                "label": "Madagascar",
+                "values": [
+                    62.96,
+                    55.49,
+                    48.51,
+                    42.13,
+                    36.5,
+                    31.65,
+                    27.4,
+                    23.49,
+                    20.1,
+                    17.34,
+                    15.08,
+                    14.29
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/MV/flat/64.png",
+                "label": "Maldives",
+                "values": [
+                    0.32,
+                    0.28,
+                    0.24,
+                    0.21,
+                    0.18,
+                    0.15,
+                    0.13,
+                    0.11,
+                    0.1,
+                    0.09,
+                    0.08,
+                    0.07
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/MX/flat/64.png",
+                "label": "Mexico",
+                "values": [
+                    10.18,
+                    8.71,
+                    7.48,
+                    6.51,
+                    5.76,
+                    5.16,
+                    4.7,
+                    4.32,
+                    4.02,
+                    3.75,
+                    3.49,
+                    3.4
+                ]
+            },
+            {
+                "category": "Oceania",
+                "image": "https://www.countryflags.io/MH/flat/64.png",
+                "label": "Marshall Islands",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/MK/flat/64.png",
+                "label": "North Macedonia",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    2.72,
+                    2.7,
+                    2.64,
+                    2.61,
+                    2.6,
+                    2.6
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/ML/flat/64.png",
+                "label": "Mali",
+                "values": [
+                    11.15,
+                    10.51,
+                    9.76,
+                    8.94,
+                    8.12,
+                    7.44,
+                    6.78,
+                    5.94,
+                    5.16,
+                    4.4,
+                    3.75,
+                    3.54
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/MT/flat/64.png",
+                "label": "Malta",
+                "values": [
+                    0.16,
+                    0.16,
+                    0.17,
+                    0.16,
+                    0.15,
+                    0.15,
+                    0.14,
+                    0.13,
+                    0.13,
+                    0.12,
+                    0.12,
+                    0.12
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/MM/flat/64.png",
+                "label": "Myanmar",
+                "values": [
+                    44.19,
+                    39.47,
+                    35.11,
+                    31.32,
+                    28.07,
+                    25.45,
+                    23.65,
+                    22.28,
+                    21.03,
+                    20.21,
+                    19.51,
+                    19.18
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/ME/flat/64.png",
+                "label": "Montenegro",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/MN/flat/64.png",
+                "label": "Mongolia",
+                "values": [
+                    34.41,
+                    29.66,
+                    25.65,
+                    22.28,
+                    19.58,
+                    17.11,
+                    15.51,
+                    14.9,
+                    14.24,
+                    13.42,
+                    12.32,
+                    11.84
+                ]
+            },
+            {
+                "category": "Oceania",
+                "image": "https://www.countryflags.io/MP/flat/64.png",
+                "label": "Northern Mariana Islands",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/MZ/flat/64.png",
+                "label": "Mozambique",
+                "values": [
+                    13.36,
+                    11.92,
+                    10.62,
+                    9.34,
+                    8.23,
+                    7.84,
+                    7.26,
+                    6.12,
+                    5.35,
+                    4.63,
+                    4.03,
+                    3.82
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/MR/flat/64.png",
+                "label": "Mauritania",
+                "values": [
+                    0.44,
+                    0.38,
+                    0.33,
+                    0.28,
+                    0.24,
+                    0.21,
+                    0.19,
+                    0.16,
+                    0.14,
+                    0.12,
+                    0.11,
+                    0.1
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/MU/flat/64.png",
+                "label": "Mauritius",
+                "values": [
+                    3.93,
+                    3.51,
+                    3.23,
+                    2.99,
+                    2.77,
+                    2.66,
+                    2.54,
+                    2.4,
+                    2.28,
+                    2.22,
+                    2.19,
+                    2.18
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/MW/flat/64.png",
+                "label": "Malawi",
+                "values": [
+                    4.2,
+                    3.71,
+                    3.25,
+                    2.82,
+                    2.46,
+                    1.98,
+                    1.67,
+                    1.57,
+                    1.38,
+                    1.21,
+                    1.05,
+                    0.99
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/MY/flat/64.png",
+                "label": "Malaysia",
+                "values": [
+                    66.73,
+                    57.73,
+                    51.22,
+                    45.35,
+                    40.08,
+                    35.1,
+                    30.52,
+                    26.9,
+                    23.96,
+                    21.71,
+                    19.95,
+                    19.42
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/NA/flat/64.png",
+                "label": "Namibia",
+                "values": [
+                    9.26,
+                    8.17,
+                    7.09,
+                    6.2,
+                    5.57,
+                    4.79,
+                    4.06,
+                    3.63,
+                    3.33,
+                    3.07,
+                    2.81,
+                    2.71
+                ]
+            },
+            {
+                "category": "Oceania",
+                "image": "https://www.countryflags.io/NC/flat/64.png",
+                "label": "New Caledonia",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/NE/flat/64.png",
+                "label": "Niger",
+                "values": [
+                    0.98,
+                    0.84,
+                    0.73,
+                    0.64,
+                    0.55,
+                    0.48,
+                    0.41,
+                    0.34,
+                    0.29,
+                    0.24,
+                    0.2,
+                    0.18
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/NG/flat/64.png",
+                "label": "Nigeria",
+                "values": [
+                    4.7,
+                    4.22,
+                    3.77,
+                    3.29,
+                    2.85,
+                    2.51,
+                    2.21,
+                    1.95,
+                    1.72,
+                    1.51,
+                    1.32,
+                    1.25
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/NI/flat/64.png",
+                "label": "Nicaragua",
+                "values": [
+                    82.76,
+                    71.09,
+                    61.05,
+                    52.32,
+                    45.21,
+                    39.95,
+                    35.79,
+                    32.36,
+                    29.93,
+                    27.94,
+                    26.11,
+                    25.43
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/NL/flat/64.png",
+                "label": "Netherlands",
+                "values": [
+                    0.93,
+                    0.87,
+                    0.83,
+                    0.79,
+                    0.77,
+                    0.75,
+                    0.72,
+                    0.7,
+                    0.68,
+                    0.67,
+                    0.66,
+                    0.65
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/NO/flat/64.png",
+                "label": "Norway",
+                "values": [
+                    104.98,
+                    100.94,
+                    97.13,
+                    94.48,
+                    92.84,
+                    91.24,
+                    89.12,
+                    86.72,
+                    84.18,
+                    81.12,
+                    76.12,
+                    74.36
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/NP/flat/64.png",
+                "label": "Nepal",
+                "values": [
+                    19.0,
+                    17.41,
+                    15.75,
+                    14.13,
+                    12.6,
+                    11.25,
+                    9.94,
+                    8.78,
+                    8.02,
+                    7.51,
+                    7.34,
+                    7.37
+                ]
+            },
+            {
+                "category": "Oceania",
+                "image": "https://www.countryflags.io/NR/flat/64.png",
+                "label": "Nauru",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Oceania",
+                "image": "https://www.countryflags.io/NZ/flat/64.png",
+                "label": "New Zealand",
+                "values": [
+                    131.75,
+                    120.04,
+                    112.61,
+                    104.8,
+                    103.61,
+                    99.87,
+                    92.59,
+                    86.48,
+                    82.82,
+                    77.42,
+                    74.18,
+                    72.51
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/OM/flat/64.png",
+                "label": "Oman",
+                "values": [
+                    2.42,
+                    2.12,
+                    1.8,
+                    1.43,
+                    1.09,
+                    0.86,
+                    0.71,
+                    0.62,
+                    0.6,
+                    0.53,
+                    0.4,
+                    0.35
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/PK/flat/64.png",
+                "label": "Pakistan",
+                "values": [
+                    1.17,
+                    1.03,
+                    0.9,
+                    0.78,
+                    0.66,
+                    0.56,
+                    0.48,
+                    0.42,
+                    0.37,
+                    0.33,
+                    0.29,
+                    0.28
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/PA/flat/64.png",
+                "label": "Panama",
+                "values": [
+                    113.6,
+                    98.0,
+                    84.96,
+                    74.33,
+                    65.87,
+                    58.92,
+                    53.03,
+                    47.86,
+                    43.38,
+                    39.55,
+                    36.23,
+                    35.01
+                ]
+            },
+            {
+                "category": "South America",
+                "image": "https://www.countryflags.io/PE/flat/64.png",
+                "label": "Peru",
+                "values": [
+                    152.66,
+                    132.48,
+                    115.38,
+                    100.93,
+                    89.06,
+                    79.31,
+                    71.45,
+                    65.09,
+                    60.55,
+                    57.92,
+                    55.61,
+                    54.54
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/PH/flat/64.png",
+                "label": "Philippines",
+                "values": [
+                    17.06,
+                    14.59,
+                    12.63,
+                    10.98,
+                    9.58,
+                    8.36,
+                    7.37,
+                    6.56,
+                    5.89,
+                    5.36,
+                    4.93,
+                    4.77
+                ]
+            },
+            {
+                "category": "Oceania",
+                "image": "https://www.countryflags.io/PW/flat/64.png",
+                "label": "Palau",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Oceania",
+                "image": "https://www.countryflags.io/PG/flat/64.png",
+                "label": "Papua New Guinea",
+                "values": [
+                    342.26,
+                    308.45,
+                    274.49,
+                    242.53,
+                    212.55,
+                    186.6,
+                    165.63,
+                    147.06,
+                    131.34,
+                    117.65,
+                    104.97,
+                    100.8
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/PL/flat/64.png",
+                "label": "Poland",
+                "values": [
+                    1.77,
+                    1.68,
+                    1.62,
+                    1.55,
+                    1.48,
+                    1.42,
+                    1.4,
+                    1.39,
+                    1.4,
+                    1.41,
+                    1.41,
+                    1.41
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/PR/flat/64.png",
+                "label": "Puerto Rico",
+                "values": [
+                    2.9,
+                    2.68,
+                    2.52,
+                    2.3,
+                    2.17,
+                    2.06,
+                    1.98,
+                    1.89,
+                    1.86,
+                    1.88,
+                    1.95,
+                    2.01
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/KP/flat/64.png",
+                "label": "North Korea",
+                "values": [
+                    5.64,
+                    5.07,
+                    4.41,
+                    3.99,
+                    3.72,
+                    3.45,
+                    3.2,
+                    3.0,
+                    2.87,
+                    2.77,
+                    2.7,
+                    2.67
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/PT/flat/64.png",
+                "label": "Portugal",
+                "values": [
+                    4.23,
+                    4.28,
+                    4.4,
+                    4.02,
+                    3.83,
+                    3.79,
+                    3.82,
+                    3.76,
+                    3.65,
+                    3.6,
+                    3.61,
+                    3.65
+                ]
+            },
+            {
+                "category": "South America",
+                "image": "https://www.countryflags.io/PY/flat/64.png",
+                "label": "Paraguay",
+                "values": [
+                    58.31,
+                    51.07,
+                    45.05,
+                    39.85,
+                    34.73,
+                    30.06,
+                    26.32,
+                    23.41,
+                    21.15,
+                    19.51,
+                    18.22,
+                    17.73
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/PS/flat/64.png",
+                "label": "West Bank and Gaza",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    0.38,
+                    0.3,
+                    0.26,
+                    0.23,
+                    0.2,
+                    0.19
+                ]
+            },
+            {
+                "category": "Oceania",
+                "image": "https://www.countryflags.io/PF/flat/64.png",
+                "label": "French Polynesia",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    40.17,
+                    38.06,
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/QA/flat/64.png",
+                "label": "Qatar",
+                "values": [
+                    1.0,
+                    0.65,
+                    0.43,
+                    0.31,
+                    0.2,
+                    0.13,
+                    0.11,
+                    0.1,
+                    0.09,
+                    0.05,
+                    0.03,
+                    0.02
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/RO/flat/64.png",
+                "label": "Romania",
+                "values": [
+                    2.27,
+                    2.17,
+                    2.05,
+                    1.95,
+                    1.88,
+                    1.85,
+                    1.86,
+                    1.88,
+                    1.95,
+                    2.03,
+                    2.11,
+                    2.13
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/RU/flat/64.png",
+                "label": "Russia",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    29.0,
+                    29.15,
+                    29.68,
+                    30.2,
+                    30.11,
+                    29.98
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/RW/flat/64.png",
+                "label": "Rwanda",
+                "values": [
+                    3.11,
+                    2.78,
+                    2.38,
+                    2.04,
+                    1.73,
+                    1.4,
+                    1.42,
+                    1.48,
+                    1.13,
+                    1.02,
+                    0.9,
+                    0.86
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/SA/flat/64.png",
+                "label": "Saudi Arabia",
+                "values": [
+                    0.55,
+                    0.46,
+                    0.38,
+                    0.29,
+                    0.22,
+                    0.17,
+                    0.14,
+                    0.12,
+                    0.11,
+                    0.1,
+                    0.08,
+                    0.08
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/SD/flat/64.png",
+                "label": "Sudan",
+                "values": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.11,
+                    0.1
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/SN/flat/64.png",
+                "label": "Senegal",
+                "values": [
+                    7.62,
+                    6.62,
+                    5.7,
+                    4.98,
+                    4.37,
+                    3.75,
+                    3.23,
+                    2.83,
+                    2.51,
+                    2.21,
+                    1.93,
+                    1.82
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/SG/flat/64.png",
+                "label": "Singapore",
+                "values": [
+                    0.34,
+                    0.3,
+                    0.28,
+                    0.26,
+                    0.23,
+                    0.22,
+                    0.19,
+                    0.16,
+                    0.14,
+                    0.13,
+                    0.11,
+                    0.11
+                ]
+            },
+            {
+                "category": "Oceania",
+                "image": "https://www.countryflags.io/SB/flat/64.png",
+                "label": "Solomon Islands",
+                "values": [
+                    357.49,
+                    307.6,
+                    259.05,
+                    215.02,
+                    181.38,
+                    155.82,
+                    135.46,
+                    117.63,
+                    102.66,
+                    90.83,
+                    80.39,
+                    76.14
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/SL/flat/64.png",
+                "label": "Sierra Leone",
+                "values": [
+                    66.98,
+                    61.61,
+                    56.04,
+                    50.47,
+                    45.2,
+                    39.62,
+                    36.8,
+                    36.91,
+                    32.22,
+                    26.71,
+                    23.84,
+                    22.8
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/SV/flat/64.png",
+                "label": "El Salvador",
+                "values": [
+                    5.33,
+                    4.61,
+                    4.04,
+                    3.6,
+                    3.3,
+                    3.08,
+                    2.89,
+                    2.72,
+                    2.62,
+                    2.56,
+                    2.51,
+                    2.48
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/SM/flat/64.png",
+                "label": "San Marino",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/SO/flat/64.png",
+                "label": "Somalia",
+                "values": [
+                    2.09,
+                    1.86,
+                    1.72,
+                    1.25,
+                    0.91,
+                    0.87,
+                    0.82,
+                    0.76,
+                    0.63,
+                    0.54,
+                    0.47,
+                    0.45
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/RS/flat/64.png",
+                "label": "Serbia",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    1.14,
+                    1.17,
+                    1.18
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/SS/flat/64.png",
+                "label": "South Sudan",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    2.57,
+                    2.46
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/ST/flat/64.png",
+                "label": "Sao Tome and Principe",
+                "values": [
+                    33.81,
+                    32.04,
+                    27.97,
+                    24.74,
+                    21.92,
+                    19.77,
+                    17.5,
+                    16.05,
+                    14.78,
+                    13.11,
+                    11.57,
+                    11.14
+                ]
+            },
+            {
+                "category": "South America",
+                "image": "https://www.countryflags.io/SR/flat/64.png",
+                "label": "Suriname",
+                "values": [
+                    325.77,
+                    284.76,
+                    269.09,
+                    276.8,
+                    274.3,
+                    259.82,
+                    235.35,
+                    217.98,
+                    205.29,
+                    193.67,
+                    182.91,
+                    178.94
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/SK/flat/64.png",
+                "label": "Slovak Republic",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    2.34,
+                    2.34,
+                    2.34,
+                    2.33,
+                    2.33
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/SI/flat/64.png",
+                "label": "Slovenia",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    9.35,
+                    9.4,
+                    9.36,
+                    9.25,
+                    9.08,
+                    9.05
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/SE/flat/64.png",
+                "label": "Sweden",
+                "values": [
+                    22.61,
+                    21.73,
+                    21.05,
+                    20.72,
+                    20.54,
+                    20.36,
+                    19.73,
+                    19.33,
+                    19.16,
+                    18.69,
+                    17.96,
+                    17.64
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/SZ/flat/64.png",
+                "label": "Eswatini",
+                "values": [
+                    7.54,
+                    6.69,
+                    5.78,
+                    4.96,
+                    4.19,
+                    3.53,
+                    3.05,
+                    2.74,
+                    2.59,
+                    2.53,
+                    2.45,
+                    2.41
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/SX/flat/64.png",
+                "label": "Sint Maarten (Dutch part)",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/SC/flat/64.png",
+                "label": "Seychelles",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/SY/flat/64.png",
+                "label": "Syria",
+                "values": [
+                    1.46,
+                    1.24,
+                    1.05,
+                    0.88,
+                    0.74,
+                    0.63,
+                    0.54,
+                    0.47,
+                    0.42,
+                    0.36,
+                    0.35,
+                    0.38
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/TC/flat/64.png",
+                "label": "Turks and Caicos Islands",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/TD/flat/64.png",
+                "label": "Chad",
+                "values": [
+                    4.81,
+                    4.37,
+                    3.93,
+                    3.53,
+                    3.18,
+                    2.77,
+                    2.36,
+                    2.0,
+                    1.66,
+                    1.39,
+                    1.17,
+                    1.1
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/TG/flat/64.png",
+                "label": "Togo",
+                "values": [
+                    7.13,
+                    6.2,
+                    5.12,
+                    4.57,
+                    3.94,
+                    3.31,
+                    2.91,
+                    2.56,
+                    2.21,
+                    1.94,
+                    1.7,
+                    1.61
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/TH/flat/64.png",
+                "label": "Thailand",
+                "values": [
+                    7.72,
+                    6.65,
+                    5.75,
+                    5.06,
+                    4.56,
+                    4.16,
+                    3.88,
+                    3.69,
+                    3.5,
+                    3.39,
+                    3.31,
+                    3.28
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/TJ/flat/64.png",
+                "label": "Tajikistan",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    11.53,
+                    10.69,
+                    9.87,
+                    8.99,
+                    8.06,
+                    7.69
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/TM/flat/64.png",
+                "label": "Turkmenistan",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    0.36,
+                    0.32,
+                    0.3,
+                    0.29,
+                    0.27,
+                    0.26
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/TL/flat/64.png",
+                "label": "Timor-Leste",
+                "values": [
+                    16.71,
+                    15.24,
+                    13.69,
+                    13.25,
+                    13.4,
+                    11.97,
+                    10.49,
+                    9.53,
+                    8.9,
+                    7.93,
+                    7.25,
+                    7.0
+                ]
+            },
+            {
+                "category": "Oceania",
+                "image": "https://www.countryflags.io/TO/flat/64.png",
+                "label": "Tonga",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/TT/flat/64.png",
+                "label": "Trinidad and Tobago",
+                "values": [
+                    4.37,
+                    4.15,
+                    3.97,
+                    3.7,
+                    3.43,
+                    3.21,
+                    3.11,
+                    3.05,
+                    3.01,
+                    2.93,
+                    2.86,
+                    2.82
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/TN/flat/64.png",
+                "label": "Tunisia",
+                "values": [
+                    0.97,
+                    0.88,
+                    0.79,
+                    0.71,
+                    0.62,
+                    0.54,
+                    0.49,
+                    0.45,
+                    0.42,
+                    0.41,
+                    0.39,
+                    0.38
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/TR/flat/64.png",
+                "label": "Turkey",
+                "values": [
+                    7.87,
+                    6.99,
+                    6.2,
+                    5.52,
+                    4.93,
+                    4.44,
+                    4.07,
+                    3.76,
+                    3.48,
+                    3.26,
+                    3.04,
+                    2.94
+                ]
+            },
+            {
+                "category": "Oceania",
+                "image": "https://www.countryflags.io/TV/flat/64.png",
+                "label": "Tuvalu",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/TZ/flat/64.png",
+                "label": "Tanzania",
+                "values": [
+                    7.89,
+                    6.8,
+                    5.82,
+                    4.97,
+                    4.26,
+                    3.66,
+                    3.12,
+                    2.69,
+                    2.38,
+                    2.06,
+                    1.79,
+                    1.68
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/UG/flat/64.png",
+                "label": "Uganda",
+                "values": [
+                    5.4,
+                    4.56,
+                    3.93,
+                    3.43,
+                    2.95,
+                    2.5,
+                    2.1,
+                    1.8,
+                    1.55,
+                    1.32,
+                    1.13,
+                    1.06
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/UA/flat/64.png",
+                "label": "Ukraine",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    1.06,
+                    1.09,
+                    1.14,
+                    1.18,
+                    1.21,
+                    1.22
+                ]
+            },
+            {
+                "category": "South America",
+                "image": "https://www.countryflags.io/UY/flat/64.png",
+                "label": "Uruguay",
+                "values": [
+                    35.41,
+                    33.53,
+                    32.68,
+                    32.27,
+                    31.21,
+                    30.23,
+                    29.23,
+                    28.19,
+                    27.72,
+                    27.67,
+                    27.29,
+                    27.11
+                ]
+            },
+            {
+                "category": "North America",
+                "image": "https://www.countryflags.io/US/flat/64.png",
+                "label": "United States",
+                "values": [
+                    15.11,
+                    14.18,
+                    13.43,
+                    12.8,
+                    12.16,
+                    11.63,
+                    10.99,
+                    10.34,
+                    9.8,
+                    9.35,
+                    8.98,
+                    8.85
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/UZ/flat/64.png",
+                "label": "Uzbekistan",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    0.76,
+                    0.69,
+                    0.65,
+                    0.61,
+                    0.55,
+                    0.53
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/VC/flat/64.png",
+                "label": "St. Vincent and the Grenadines",
+                "values": [
+                    1.2,
+                    1.14,
+                    1.08,
+                    1.02,
+                    0.98,
+                    0.94,
+                    0.93,
+                    0.93,
+                    0.93,
+                    0.92,
+                    0.92,
+                    0.92
+                ]
+            },
+            {
+                "category": "South America",
+                "image": "https://www.countryflags.io/VE/flat/64.png",
+                "label": "Venezuela, RB",
+                "values": [
+                    92.08,
+                    77.7,
+                    66.54,
+                    57.65,
+                    50.26,
+                    44.15,
+                    39.16,
+                    35.25,
+                    32.07,
+                    29.54,
+                    27.42,
+                    26.79
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/VG/flat/64.png",
+                "label": "British Virgin Islands",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Central America",
+                "image": "https://www.countryflags.io/VI/flat/64.png",
+                "label": "Virgin Islands (U.S.)",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/VN/flat/64.png",
+                "label": "Vietnam",
+                "values": [
+                    10.36,
+                    8.97,
+                    7.89,
+                    7.07,
+                    6.33,
+                    5.64,
+                    5.07,
+                    4.66,
+                    4.41,
+                    4.21,
+                    4.0,
+                    3.92
+                ]
+            },
+            {
+                "category": "Oceania",
+                "image": "https://www.countryflags.io/VU/flat/64.png",
+                "label": "Vanuatu",
+                "values": [
+                    147.51,
+                    127.39,
+                    110.12,
+                    94.16,
+                    82.38,
+                    73.49,
+                    64.45,
+                    57.17,
+                    51.57,
+                    45.56,
+                    40.08,
+                    37.89
+                ]
+            },
+            {
+                "category": "Oceania",
+                "image": "https://www.countryflags.io/WS/flat/64.png",
+                "label": "Samoa",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Europe",
+                "image": "https://www.countryflags.io/XK/flat/64.png",
+                "label": "Kosovo",
+                "values": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "category": "Asia",
+                "image": "https://www.countryflags.io/YE/flat/64.png",
+                "label": "Yemen, Rep.",
+                "values": [
+                    0.38,
+                    0.36,
+                    0.33,
+                    0.29,
+                    0.25,
+                    0.2,
+                    0.16,
+                    0.13,
+                    0.11,
+                    0.1,
+                    0.09,
+                    0.08
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/ZA/flat/64.png",
+                "label": "South Africa",
+                "values": [
+                    2.49,
+                    2.2,
+                    1.92,
+                    1.69,
+                    1.49,
+                    1.31,
+                    1.16,
+                    1.04,
+                    0.97,
+                    0.91,
+                    0.85,
+                    0.82
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/ZM/flat/64.png",
+                "label": "Zambia",
+                "values": [
+                    24.6,
+                    21.12,
+                    17.96,
+                    15.17,
+                    12.8,
+                    10.88,
+                    9.49,
+                    8.36,
+                    7.31,
+                    6.41,
+                    5.54,
+                    5.21
+                ]
+            },
+            {
+                "category": "Africa",
+                "image": "https://www.countryflags.io/ZW/flat/64.png",
+                "label": "Zimbabwe",
+                "values": [
+                    3.04,
+                    2.56,
+                    2.16,
+                    1.83,
+                    1.54,
+                    1.29,
+                    1.12,
+                    1.05,
+                    1.03,
+                    1.0,
+                    0.93,
+                    0.9
+                ]
+            }
+        ]
+    }
+}
