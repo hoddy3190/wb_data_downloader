@@ -4,6 +4,7 @@ import collections as cl
 import json
 import os
 import pandas as pd
+import re
 from keyword_extract import TextRank4Keyword
 
 indicator_id = os.getcwd().split('/')[-1]
@@ -22,6 +23,21 @@ for i in range(columns.size):
         image_url_col_index = i
     if i > image_url_col_index:
         years.append(columns[i])
+
+def to_camel(value, capitalize):
+    if (value == None):
+      return None
+    ret = value.lower()
+
+    words = re.split("[\s_]", ret)
+    words = map(lambda x: x.capitalize(), words)
+    if (capitalize == False):
+      words[0] = words[0].lower()
+
+    return "".join(words)
+
+maxidx = csv[years[-1]].idxmax()
+no1country = to_camel(csv.at[maxidx, 'alias'], True)
 
 json_hash = cl.OrderedDict()
 
@@ -76,7 +92,7 @@ default_tags = ['ranking', 'world', 'education', 'graph', 'country']
 
 
 json_hash['tags'] = []
-for tag in default_tags + keywords:
+for tag in [ no1country ] + default_tags + keywords:
     if tag not in json_hash['tags']:
         json_hash['tags'].append(tag)
 
