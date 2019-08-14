@@ -32,6 +32,6 @@ delete_cols = ['Indicator Name', 'Indicator Code']
 data.drop(delete_cols, axis=1, inplace=True)
 
 # 列の値すべてが欠損していたら列を削除する（1960年代ごろから一応カラムは用意されているが、データが入っていない場合がある）
-data.dropna(how='all', axis=1, inplace=True)
+data.dropna(thresh=2, how='all', axis=1, inplace=True)
 
 data.to_csv('data.csv')
