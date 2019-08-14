@@ -2,7 +2,7 @@ import pandas as pd
 import glob
 
 # alpha3Codeをindexに設定して読み込む
-country_data = pd.read_csv('../../country.csv', index_col=0)
+country_data = pd.read_csv('../../country.csv', keep_default_na=False, index_col=0)
 
 # 空行を除いて3行目からデータがスタートする（適宜要調整）
 # 2列目の「Country Code」をindexに設定する。country.csvと同じ値が入るカラムをindexに指定する必要がある（適宜要調整）
